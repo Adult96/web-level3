@@ -10,7 +10,6 @@ export default function ModalBox() {
   });
 
   const handleModal = popup => {
-    console.log(modal.show, modal.popup);
     setModal({
       show: true,
       popup: popup,
