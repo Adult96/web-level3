@@ -1,4 +1,3 @@
-import './App.css';
 import ButtonBox from './components/ButtonBox';
 import InputBox from './components/InputBox';
 import ModalBox from './components/ModalBox';
